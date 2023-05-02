@@ -138,7 +138,26 @@
       "description": "course will teach you to master on media",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
+    },
+    {
+      "id": 2,
+      "course_id": 2,
+      "title": "Math",
+      "instructor": "DNA Team",
+      "description": "course will teach you to master on media",
+      "course_fee": 200000,
+      "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
+    },
+    {
+      "id": 3,
+      "course_id": 3,
+      "title": "Music",
+      "instructor": "DNA Team",
+      "description": "course will teach you to master on media",
+      "course_fee": 400000,
+      "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
     }
+    
   ],
   "profile": {
     "name": "typicode"
