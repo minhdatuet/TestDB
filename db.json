@@ -2,10 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Math",
-      "description": "course will teach you to master on math",
-      "course_fee": 300000,
-      "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
+      "title": "Math"
     }
   ],
   "profile": {
