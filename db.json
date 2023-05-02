@@ -10,21 +10,21 @@
     {
       "id": 2,
       "title": "Develope",
-      "description": "course will teach you to master on develope"
+      "description": "course will teach you to master on develope",
       "course_fee": 400000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
     },
     {
       "id": 3,
       "title": "Psychology",
-      "description": "course will teach you to master on psychology"
+      "description": "course will teach you to master on psychology",
       "course_fee": 200000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
     },
     {
       "id": 4,
       "title": "Literature",
-      "description": "course will teach you to master on literature"
+      "description": "course will teach you to master on literature",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
     }
