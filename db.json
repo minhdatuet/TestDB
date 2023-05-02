@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Math",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on math",
       "course_fee": 300000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "title": "Develope",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on develope",
       "course_fee": 400000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -17,6 +19,7 @@
     {
       "id": 3,
       "title": "Psychology",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on psychology",
       "course_fee": 200000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "title": "Literature",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on literature",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -31,6 +35,7 @@
     {
       "id": 5,
       "title": "Science",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on science",
       "course_fee": 300000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -38,6 +43,7 @@
     {
       "id": 6,
       "title": "Design",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on design",
       "course_fee": 400000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -45,6 +51,7 @@
     {
       "id": 7,
       "title": "Music",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on music",
       "course_fee": 200000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -52,6 +59,7 @@
     {
       "id": 8,
       "title": "Literature 2",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on literature 2",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -59,6 +67,7 @@
     {
       "id": 9,
       "title": "Health",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on health",
       "course_fee": 300000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -66,6 +75,7 @@
     {
       "id": 10,
       "title": "Economic",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on economic",
       "course_fee": 400000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -73,6 +83,7 @@
     {
       "id": 11,
       "title": "Psychology 2",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on psychology 2",
       "course_fee": 200000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -80,6 +91,7 @@
     {
       "id": 12,
       "title": "Chemistry",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on chemistry",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -87,6 +99,7 @@
     {
       "id": 13,
       "title": "Math 3",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on math 3",
       "course_fee": 300000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -94,6 +107,7 @@
     {
       "id": 14,
       "title": "Physics",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on physics",
       "course_fee": 400000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -101,6 +115,7 @@
     {
       "id": 15,
       "title": "Lifestyle",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on lifestyle",
       "course_fee": 200000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
@@ -108,6 +123,7 @@
     {
       "id": 16,
       "title": "Media",
+      "instructor": "DNA Team",
       "description": "course will teach you to master on media",
       "course_fee": 100000,
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
