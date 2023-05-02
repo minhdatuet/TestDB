@@ -129,6 +129,16 @@
       "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
     }
   ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Test",
+      "instructor": "DNA Team",
+      "description": "course will teach you to master on media",
+      "course_fee": 100000,
+      "img_url": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?w=2000"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
